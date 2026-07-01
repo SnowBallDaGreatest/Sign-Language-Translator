@@ -51,10 +51,10 @@ Letter	How to Perform
 
 
 💡 Tips for Better Recognition
-1	Lighting: Ensure your hand is well-lit and there are no strong shadows behind it.
-2	Distance: Keep your hand about 1–2 feet (30–60 cm) away from the webcam.
-3	Background: A plain, non-distracting background helps MediaPipe track your landmarks more accurately.
-4	Orientation: Keep your palm mostly facing the camera unless the sign specifically requires a different orientation.
+- 1.	Lighting: Ensure your hand is well-lit and there are no strong shadows behind it.
+- 2.	Distance: Keep your hand about 1–2 feet (30–60 cm) away from the webcam.
+- 3.	Background: A plain, non-distracting background helps MediaPipe track your landmarks more accurately.
+- 4.	Orientation: Keep your palm mostly facing the camera unless the sign specifically requires a different orientation.
 
 
 ---

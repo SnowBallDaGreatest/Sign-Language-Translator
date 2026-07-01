@@ -27,9 +27,8 @@ Sign/
 ## Supported Gestures
 
 👋 Common Phrases
-Sign	How to Perform
-Hello 👋-	Hold your hand open (B-shape) with palm facing forward, near your forehead level.
-Thank You 🙏-	Hold your hand open (B-shape) with palm facing toward your face, near your chin level.
+```Hello 👋-	Hold your hand open (B-shape) with palm facing forward, near your forehead level.```
+```Thank You 🙏-	Hold your hand open (B-shape) with palm facing toward your face, near your chin level.```
 Please 🙏-	Hold your hand open (B-shape) with palm facing toward your body, near your chest level.
 Love You ❤️- Extend your thumb, index, and pinky fingers while keeping the middle and ring fingers curled.
 Yes 👍-	Make a fist (S-shape) and hold it steady (simulates a nodding head).

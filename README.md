@@ -29,25 +29,25 @@ Sign/
 👋 Common Phrases
 - **Hello 👋**-	Hold your hand open (B-shape) with palm facing forward, near your forehead level.
 - **Thank You 🙏**-	Hold your hand open (B-shape) with palm facing toward your face, near your chin level.
-Please 🙏-	Hold your hand open (B-shape) with palm facing toward your body, near your chest level.
-Love You ❤️- Extend your thumb, index, and pinky fingers while keeping the middle and ring fingers curled.
-Yes 👍-	Make a fist (S-shape) and hold it steady (simulates a nodding head).
-No 👎-	Extend your index and middle fingers and tap them against your extended thumb.
-Sorry 😔-	Make a fist (S-shape) and hold it near your chest level.
+- **Please 🙏**-	Hold your hand open (B-shape) with palm facing toward your body, near your chest level.
+- **Love You ❤️**- Extend your thumb, index, and pinky fingers while keeping the middle and ring fingers curled.
+- **Yes 👍**-	Make a fist (S-shape) and hold it steady (simulates a nodding head).
+- **No 👎**-	Extend your index and middle fingers and tap them against your extended thumb.
+- **Sorry 😔**-	Make a fist (S-shape) and hold it near your chest level.
 
 
 🔤 Supported Alphabet
 Letter	How to Perform
-A-	Make a fist with the thumb tucked alongside the index finger.
-B-	Hold all four fingers straight up and together, with the thumb folded across the palm.
-D-	Extend the index finger straight up, while the other fingers and thumb touch to form a circle.
-F-	Touch the tip of your index finger to your thumb, while keeping the other three fingers extended and spread.
-I-	Extend the pinky finger straight up, while keeping all other fingers and thumb curled.
-L-	Extend the index finger straight up and the thumb out to the side, forming an "L" shape.
-U-	Extend the index and middle fingers straight up and keep them pressed together.
-V-	Extend the index and middle fingers straight up and spread them apart in a "V" shape.
-W-	Extend the index, middle, and ring fingers straight up and spread them apart.
-Y-	Extend the thumb and pinky finger out, while keeping the index, middle, and ring fingers curled.
+- **A**-	Make a fist with the thumb tucked alongside the index finger.
+- **B**-	Hold all four fingers straight up and together, with the thumb folded across the palm.
+- **D**-	Extend the index finger straight up, while the other fingers and thumb touch to form a circle.
+- **F**-	Touch the tip of your index finger to your thumb, while keeping the other three fingers extended and spread.
+- **I**-	Extend the pinky finger straight up, while keeping all other fingers and thumb curled.
+- **L**-	Extend the index finger straight up and the thumb out to the side, forming an "L" shape.
+- **U**-	Extend the index and middle fingers straight up and keep them pressed together.
+- **V**-	Extend the index and middle fingers straight up and spread them apart in a "V" shape.
+- **W**-	Extend the index, middle, and ring fingers straight up and spread them apart.
+- **Y**-	Extend the thumb and pinky finger out, while keeping the index, middle, and ring fingers curled.
 
 
 💡 Tips for Better Recognition
